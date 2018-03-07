@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="829c3f8f-2357-4735-b603-c437abfb25c9" name="Default" comment="" />
+    <list default="true" id="829c3f8f-2357-4735-b603-c437abfb25c9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../git_test/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../git_test/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../git_test/src/main/java/test.java" afterPath="$PROJECT_DIR$/../git_test/src/main/java/test.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/../git_test/out/" />
     <ignored path="$PROJECT_DIR$/../git_test/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,12 +19,9 @@
       <file leaf-file-name="test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../git_test/src/main/java/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-              <folding>
-                <element signature="e#63#64#0" expanded="true" />
-                <element signature="e#138#139#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="72">
+              <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -233,12 +233,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520400575960</updated>
-      <workItem from="1520400578507" duration="225000" />
+      <workItem from="1520400578507" duration="376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="225000" />
+    <option name="totallyTimeSpent" value="376000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -300,12 +300,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../git_test/src/main/java/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding>
-            <element signature="e#63#64#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="72">
+          <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
